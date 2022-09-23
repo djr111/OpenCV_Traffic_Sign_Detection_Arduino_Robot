@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "pithontrain", "pithontrain\pithontrain.pyproj", "{06604E08-3FD4-4F4A-AD7C-CF5C2A4A8407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06604E08-3FD4-4F4A-AD7C-CF5C2A4A8407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06604E08-3FD4-4F4A-AD7C-CF5C2A4A8407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D07A340C-92FC-47A7-AC8E-FBA114D48430}
+	EndGlobalSection
+EndGlobal
