@@ -11,15 +11,15 @@
 <b /> Video presentation of performance with description can be reviewed with link below
 
 <b /> https://drive.google.com/drive/folders/1VLR-XyFgT5LPZoJVJFnIOW50bDpxL9nQ?usp=sharing
-
+<b />
 
 
 <b /> More detailed description can be reviewed in Assignment2...docx file
 
-
+<b />
 
 <b />    REQUIREMENTS  1 - Neural network, python and OpenCV part
-
+<b />
   
 <b />    Initially core component of neural network was to provide relevant dataset for high accuracy results
 
