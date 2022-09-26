@@ -11,5 +11,15 @@
 
 <b /> More detailed description can be reviewed in Assignment2...docx file
 
-<b />    REQUIREMENTS
-<b /> 
+<b />    REQUIREMENTS  1 - Neural network and OpenCV
+<b />    
+<b />    Initially core component of neural network was to provide relevant dataset for high accuracy results
+<b />    For this purpose German Traffic Sign Recognition Benchmark (GTSRB) were selected containing 35000 images
+<b />    of road signs within 44 classes - https://benchmark.ini.rub.de
+<b />    Code was developed in python 3.6.2 version with essential libraries as OpenCV,Sklearn,Tensorflow and others
+<b />    Full requirements and in depth explanation can be reviewed on https://www.computervision.zone/courses/traffic-sign-classification/
+
+<b />    Values provided in my script have 99% stable performance in classification and validation, however it was 30min process on desktop station
+<b />    I was using TensorFlow "save" function in my solution as pickle library was depricated on python3 versions and higher
+
+
