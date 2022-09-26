@@ -12,7 +12,7 @@
 <b /> More detailed description can be reviewed in Assignment2...docx file
 
 <b />    REQUIREMENTS  1 - Neural network and OpenCV
-<b />    
+  
 <b />    Initially core component of neural network was to provide relevant dataset for high accuracy results
 <b />    For this purpose German Traffic Sign Recognition Benchmark (GTSRB) were selected containing 35000 images
 <b />    of road signs within 44 classes - https://benchmark.ini.rub.de
