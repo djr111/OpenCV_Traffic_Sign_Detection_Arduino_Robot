@@ -18,7 +18,7 @@
 
 <b />
 
-<b />    REQUIREMENTS  1 - Neural network, python and OpenCV part
+<b />    REQUIREMENTS  1 - Neural network, python and OpenCV part<b />
 <b />
   
 <b />    Initially core component of neural network was to provide relevant dataset for high accuracy results
