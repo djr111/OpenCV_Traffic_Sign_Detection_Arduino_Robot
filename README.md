@@ -9,4 +9,7 @@
 <b /> Video presentation of performance with description can be reviewed with link below
 <b /> https://drive.google.com/drive/folders/1VLR-XyFgT5LPZoJVJFnIOW50bDpxL9nQ?usp=sharing
 
-<b /> More detailed description can be reviewed in Assignment2...doxc
+<b /> More detailed description can be reviewed in Assignment2...docx file
+
+<b />    REQUIREMENTS
+<b /> 
