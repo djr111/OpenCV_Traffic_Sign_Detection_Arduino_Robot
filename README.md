@@ -37,3 +37,14 @@ traffictest.py is the main script used with USB camera and OpenCV library. Previ
 
 Part 2 - Linux, ROS and Arduino  
   
+ROS requires Linux based operating system - for this purpose I was using Ubuntu 18.03 version.  
+https://ubuntu.com  
+Windows users might consider option to use VMworkstation16 as option to have Linux virtual desktop station installed on the Windows OS.  
+  
+ROS melodic distribution version was installed as main frame platform of robot development  
+http://wiki.ros.org/melodic/Installation/Ubuntu  
+  
+To perform communication between traffictest.py script in ROS and Arduino robot, script was modified to contain sending messages of road signs on which robot will respond with his programmed code to respond. In my case it were 4 classes - Turn_left, Turn_right, Forward and Stop.  
+
+Final version of modifed script located in SRC folder - loadfinal.py  
+Within other scripts of publisher and subscriber topics.
