@@ -47,4 +47,8 @@ http://wiki.ros.org/melodic/Installation/Ubuntu
 To perform communication between traffictest.py script in ROS and Arduino robot, script was modified to contain sending messages of road signs on which robot will respond with his programmed code to respond. In my case it were 4 classes - Turn_left, Turn_right, Forward and Stop.  
 
 Final version of modifed script located in SRC folder - loadfinal.py  
-Within other scripts of publisher and subscriber topics.
+Within other scripts of publisher and subscriber topics.  
+  
+ROS_TopicF.ino.ino contains my configuration of Arduino designed robot. Components and pin configuration might differ, however essential part goes of integration of stg_messages in Arduino code as main bridge between ROS and Robot.  
+![image](https://user-images.githubusercontent.com/58305266/192407489-de5baa74-c8ec-4fcf-be2e-3b7e2794e86c.png)
+
