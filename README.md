@@ -49,6 +49,9 @@ To perform communication between traffictest.py script in ROS and Arduino robot,
 Final version of modifed script located in SRC folder - loadfinal.py  
 Within other scripts of publisher and subscriber topics.  
   
-ROS_TopicF.ino.ino contains my configuration of Arduino designed robot. Components and pin configuration might differ, however essential part goes of integration of stg_messages in Arduino code as main bridge between ROS and Robot.  
+ROS_TopicF.ino.ino contains my configuration of Arduino designed robot. Components and pin configuration might differ, however essential part goes of integration of stg_messages in Arduino code as main bridge between ROS and Robot.
+
+![image](https://user-images.githubusercontent.com/58305266/192407692-579a11a4-940e-4b8b-b8e8-ee563d902895.png)
+
 ![image](https://user-images.githubusercontent.com/58305266/192407489-de5baa74-c8ec-4fcf-be2e-3b7e2794e86c.png)
 
