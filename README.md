@@ -35,4 +35,5 @@ traffictest.py is the main script used with USB camera and OpenCV library. Previ
 
 ![image](https://user-images.githubusercontent.com/58305266/192403330-05a1cba6-59bb-40c1-845b-7326b2c8a6e3.png)
 
-
+Part 2 - Linux, ROS and Arduino  
+  
